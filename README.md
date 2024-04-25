@@ -10,3 +10,10 @@ Contiene la siguiente información
 - $x_2$: Fuerza ($lb$) en la dirección de la máquina
 - $x_3$: Fuerza ($lb$) en la dirección transversal de la máquina
 
+# Maquinas2dimensiones.csv
+
+Contiene la siguiente información
+
+- $x$: Posición real ($m$)
+- $t$: Tiempo en ($s$) para la posición $x$ 
+- $t^2$: Tiempo en unidades cuadráticas ($t^2$) para la posición $x$
