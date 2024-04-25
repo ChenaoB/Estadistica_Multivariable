@@ -14,6 +14,7 @@ Contiene la siguiente información
 
 Contiene la siguiente información
 
-- $x$: Posición real ($m$)
+- $x_y$: Posición real ($m$) eje y
+- $x_x$: Posición real ($m$) eje x
 - $t$: Tiempo en ($s$) para la posición $x$ 
 - $t^2$: Tiempo en unidades cuadráticas ($t^2$) para la posición $x$
