@@ -10,7 +10,7 @@ Contiene la siguiente información
 - $x_2$: Fuerza ($lb$) en la dirección de la máquina
 - $x_3$: Fuerza ($lb$) en la dirección transversal de la máquina
 
-# Maquinas2dimensiones.csv
+# Movimiento2dimensiones.csv
 
 Contiene la siguiente información
 
@@ -18,6 +18,8 @@ Contiene la siguiente información
 - $x_x$: Posición real ($m$) eje x
 - $t$: Tiempo en ($s$) para la posición $x$ 
 - $t^2$: Tiempo en unidades cuadráticas ($t^2$) para la posición $x$
+
+Nota: $t$ en milisegundos
 
 # Solicitud_Trabajo_PCA.csv
 
