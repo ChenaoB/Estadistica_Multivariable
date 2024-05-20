@@ -28,8 +28,8 @@ Contiene información de las tasas de rendimiento semanales de 5 Acciones. Extra
 - $x_1$: Precio acción semanal Jp Morgan 
 - $x_2$: Precio acción semanal CityBank
 - $x_3$  Precio acción semanal Wells Fargo 
-- $x_3$  Royal Dutch Shell semanal Wells Fargo
-- $x_3$  Precio acción semanal Exxon Mobil 
+- $x_4$  Royal Dutch Shell semanal Wells Fargo
+- $x_5$  Precio acción semanal Exxon Mobil 
 
 # Solicitud_Trabajo_PCA.csv
 
