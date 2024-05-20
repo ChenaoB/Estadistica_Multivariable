@@ -21,6 +21,16 @@ Contiene la siguiente información
 
 Nota: $t$ en milisegundos
 
+# T0804.csv
+
+Contiene información de las tasas de rendimiento semanales de 5 Acciones. Extraído de Johnson, R.A., Wichern, D.W. Applied Multivariate Statistical Analysis. 6th edition, Prentice Hall (2007). Etiquetas
+
+- $x_1$: Precio acción semanal Jp Morgan 
+- $x_2$: Precio acción semanal CityBank
+- $x_3$  Precio acción semanal Wells Fargo 
+- $x_3$  Royal Dutch Shell semanal Wells Fargo
+- $x_3$  Precio acción semanal Exxon Mobil 
+
 # Solicitud_Trabajo_PCA.csv
 
 Contiene la siguiente información
