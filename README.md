@@ -51,3 +51,13 @@ Contiene la siguiente información
 - **$X$**$_{13}$: POT su potencial
 - **$X$**$_{14}$: KJ su entusiamos para trabajar en equipo
 - **$X$**$_{15}$: SUIT su conveniencia
+
+# Datos_Hemofilia.csv
+
+Contiene la siguiente información. Se tiene información de 75 pacientes (pertenecientes a dos poblaciones) de dos variables químicas de la sangre.
+
+- $ID$: Grupo poblacional
+- **$X$**$_1$: Actividad del AHF
+- **$X$**$_2$: Actividad del antigen AHF
+
+
