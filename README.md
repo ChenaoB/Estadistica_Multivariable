@@ -56,7 +56,6 @@ Contiene la siguiente información
 
 Contiene la siguiente información. Se tiene información de 75 pacientes (pertenecientes a dos poblaciones) de dos variables químicas de la sangre.
 
-- $ID$: Grupo poblacional
 - **$X$**$_1$: Actividad del AHF
 - **$X$**$_2$: Actividad del antigen AHF
 
